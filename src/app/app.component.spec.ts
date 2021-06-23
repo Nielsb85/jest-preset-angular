@@ -31,4 +31,8 @@ describe('example', () => {
 
     controller = TestBed.inject(ApolloTestingController);
   });
+
+  it('should not fail on missing deps', () => {
+    expect(true).toBeTruthy();
+  })
 });

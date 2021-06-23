@@ -73,7 +73,6 @@
     "@types/zen-observable": "0.8.2",
     "codelyzer": "6.0.2",
     "husky": "6.0.0",
-
     "jest-junit": "12.2.0",
     "babel-loader": "8.2.2",
     "jest-preset-angular": "9.0.4",

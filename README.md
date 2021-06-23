@@ -1,3 +1,12 @@
-# angular-ivy-27wmsm
+#run
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-27wmsm)
+`````
+ $ npm install
+`````
+
+then
+
+`````
+ $ npm run test
+`````
+
